@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "description": "configurable datapack to nerf what time the bed skips to.",
+        "min_format": 71,
+        "max_format": 94,
+        "pack_format": 94
+    }
+}
