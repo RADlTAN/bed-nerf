@@ -5,5 +5,5 @@ function bednerf:setup/scoreboard/all
 
 scoreboard players set bednerf:main_variables bednerf.first_launch 0
 scoreboard players set bednerf:main_variables bednerf.execution_chance 100
-scoreboard players set bednerf:main_variables bednerf.wake_time 18000
+scoreboard players set bednerf:main_variables bednerf.wake_time 21000
 scoreboard players set bednerf:main_variables bednerf.current_day_execution 1

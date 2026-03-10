@@ -1,0 +1,1 @@
+execute if predicate bednerf:test/1 run tellraw @a "0 sleeptimer"

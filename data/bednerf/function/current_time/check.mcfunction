@@ -1,0 +1,1 @@
+execute if predicate {condition:"minecraft:time_check",value:{min:0,max:100},period:24000} run function bednerf:current_time/execute
