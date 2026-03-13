@@ -1,4 +1,3 @@
-
 #debug
 execute if score bednerf:debug bednerf.main_toggle matches 1 run tellraw @a [{text:"daily_reset/execute",color: "yellow"},{text:" executed as ",color:"white"},{selector:"@s"}]
 

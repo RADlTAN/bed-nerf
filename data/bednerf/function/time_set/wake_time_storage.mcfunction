@@ -1,3 +1,4 @@
+#DEADEND
 #debug
 execute if score bednerf:debug bednerf.main_toggle matches 1 run tellraw @a [{text:"wake_time_storage",color: "yellow"},{text:" executed as ",color:"white"},{selector:"@s"}]
 
