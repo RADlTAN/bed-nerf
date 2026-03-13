@@ -3,6 +3,8 @@ execute if score bednerf:debug bednerf.main_toggle matches 1 run tellraw @a [{te
 
 function bednerf:time_set/wake_time_storage
 
+scoreboard objectives add bednerf.first_launch dummy
+
 #recursives
 function bednerf:daily_reset/check
 function bednerf:sleep_timer/check
